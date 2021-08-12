@@ -29,4 +29,12 @@
       </dependency> 
      
      ```
+  + [Jfoenix](http://www.jfoenix.com/)
+    - ```
+        <dependency>
+           <groupId>com.jfoenix</groupId>
+           <artifactId>jfoenix</artifactId>
+           <version>9.0.10</version>
+        </dependency>
+      ```  
 
