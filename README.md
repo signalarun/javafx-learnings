@@ -19,4 +19,14 @@
  - Scene builder
 
 ## Libraries
- - [FontawesomeFX](https://bitbucket.org/Jerady/fontawesomefx/src/master/)
+ + [FontawesomeFX](https://bitbucket.org/Jerady/fontawesomefx/src/master/)
+   - ``` 
+     <!-- https://mvnrepository.com/artifact/de.jensd/fontawesomefx -->  
+      <dependency>  
+        <groupId>de.jensd</groupId>  
+        <artifactId>fontawesomefx</artifactId>  
+        <version>8.9</version>  
+      </dependency> 
+     
+     ```
+
