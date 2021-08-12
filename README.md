@@ -17,3 +17,6 @@
 
 ## Tools
  - Scene builder
+
+## Libraries
+ - [FontawesomeFX](https://bitbucket.org/Jerady/fontawesomefx/src/master/)
