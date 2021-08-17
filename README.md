@@ -17,6 +17,7 @@
 
 ## Tools
  - Scene builder
+ - Intellij Idea IDE with JavaFx activated
 
 ## Libraries
  + [FontawesomeFX](https://bitbucket.org/Jerady/fontawesomefx/src/master/)
