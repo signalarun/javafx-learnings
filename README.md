@@ -47,9 +47,8 @@
         </dependency>
 
       ```
-   + [BoostrapFx](https://github.com/kordamp/bootstrapfx)
-    - 
-      ```
+   + [BoostrapFx](https://github.com/kordamp/bootstrapfx) 
+     - ```
         <dependency>
          <groupId>org.kordamp.bootstrapfx</groupId>
          <artifactId>bootstrapfx-core</artifactId>
