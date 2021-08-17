@@ -110,3 +110,18 @@
                 </compilerArgs>
                 
 ```                
+
+```
+ <compilerArgs> <!-- Added for PreferencesFx dialog can be removed -->
+                        <arg>--add-exports</arg>
+                        <arg>javafx.graphics/com.sun.javafx.css=ALL-UNNAMED</arg>
+                        <arg>--add-exports</arg>
+                        <arg>javafx.graphics/com.sun.javafx.css=org.controlsfx.controls</arg>
+                        <arg>--add-exports</arg>
+                        <arg>javafx.graphics/com.sun.javafx.scene=ALL-UNNAMED</arg>
+                        <arg>--add-exports</arg>
+                        <arg>javafx.graphics/com.sun.javafx.scene.traversal=ALL-UNNAMED</arg>
+
+                    </compilerArgs>
+
+```
