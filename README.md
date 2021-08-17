@@ -39,6 +39,9 @@
       ```  
 
   + [PreferencesFx](https://github.com/dlsc-software-consulting-gmbh/PreferencesFX)
+    - Creating preference dialogs in JavaFX is a tedious and very error-prone task. PreferencesFX is a framework which solves this problem. 
+      It enables the developer to create preference dialogs with ease and creates well-designed and
+      user-friendly preference dialogs by default.
     - ```
         <dependency>
          <groupId>com.dlsc.preferencesfx</groupId>
