@@ -97,3 +97,16 @@
                     <arg>javafx.graphics/com.sun.javafx.css=org.controlsfx.controls</arg>
  
  ```
+ 
+ ```
+ 
+                <compilerArgs>
+                    <arg>--add-exports</arg>
+                    <arg>javafx.graphics/com.sun.javafx.scene=ALL-UNNAMED</arg>
+                    <arg>--add-exports</arg>
+                    <arg>javafx.graphics/com.sun.javafx.scene.traversal=ALL-UNNAMED</arg>
+                    <arg>--add-exports</arg>
+                    <arg>javafx.base/com.sun.javafx.event=ALL-UNNAMED</arg>
+                </compilerArgs>
+                
+```                
