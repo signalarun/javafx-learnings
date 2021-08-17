@@ -57,5 +57,4 @@
          <artifactId>bootstrapfx-core</artifactId>
          <version>0.4.0</version>
         </dependency>
-
       ```
