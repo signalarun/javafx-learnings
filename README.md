@@ -59,3 +59,41 @@
          <version>0.4.0</version>
         </dependency>
       ```
+
+## Troubleshoting
+
+ - Compiler arguments with maven
+ ```
+ 
+                    <arg>--add-exports</arg>
+                    <arg>javafx.base/com.sun.javafx.event=org.controlsfx.controls</arg>
+                    <arg>--add-exports</arg>
+                    <arg>javafx.graphics/com.sun.javafx.scene=org.controlsfx.controls</arg>
+
+                    <!--
+                        <arg>javafx.graphics/com.sun.javafx.scene=org.controlsfx.controls</arg>
+                        -->
+                    <arg>--add-exports</arg>
+                    <arg>javafx.graphics/com.sun.javafx.scene=ALL-UNNAMED</arg>
+                    <arg>--add-exports</arg>
+                    <arg>javafx.graphics/com.sun.javafx.scene.traversal=ALL-UNNAMED</arg>
+
+
+                    <arg>--add-exports</arg>
+                    <arg>javafx.graphics/com.sun.javafx.css=org.controlsfx.controls</arg>
+                    <arg>--add-exports</arg>
+                    <arg>javafx.controls/com.sun.javafx.scene.control.behavior=org.controlsfx.controls</arg>
+                    <arg>--add-exports</arg><arg>javafx.controls/com.sun.javafx.scene.control=org.controlsfx.controls</arg>
+                    <arg>--add-exports</arg> <arg>javafx.controls/com.sun.javafx.scene.control.inputmap=org.controlsfx.controls</arg>
+                    <arg>--add-exports</arg>
+                    <arg>javafx.base/com.sun.javafx.event=org.controlsfx.controls</arg>
+                    <arg>--add-exports</arg>
+                    <arg>javafx.base/com.sun.javafx.collections=org.controlsfx.controls</arg>
+                    <arg>--add-exports</arg>
+                    <arg>javafx.base/com.sun.javafx.runtime=org.controlsfx.controls</arg>
+                    <arg>--add-exports</arg>
+                    <arg>javafx.web/com.sun.webkit=org.controlsfx.controls</arg>
+                    <arg>--add-exports</arg>
+                    <arg>javafx.graphics/com.sun.javafx.css=org.controlsfx.controls</arg>
+ 
+ ```
