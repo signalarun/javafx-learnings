@@ -38,3 +38,12 @@
         </dependency>
       ```  
 
+  + [PreferencesFx](https://github.com/dlsc-software-consulting-gmbh/PreferencesFX)
+    - ```
+        <dependency>
+         <groupId>com.dlsc.preferencesfx</groupId>
+         <artifactId>preferencesfx-core</artifactId>
+         <version>11.7.0</version>
+        </dependency>
+
+      ```
