@@ -48,12 +48,12 @@
 
       ```
    + [BoostrapFx](https://github.com/kordamp/bootstrapfx)
-    - ```
-        
-      <dependency>
-        <groupId>org.kordamp.bootstrapfx</groupId>
-        <artifactId>bootstrapfx-core</artifactId>
-        <version>0.4.0</version>
-      </dependency>
+    - 
+      ```
+        <dependency>
+         <groupId>org.kordamp.bootstrapfx</groupId>
+         <artifactId>bootstrapfx-core</artifactId>
+         <version>0.4.0</version>
+        </dependency>
 
       ```
