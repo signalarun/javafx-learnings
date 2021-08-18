@@ -59,6 +59,35 @@
          <version>0.4.0</version>
         </dependency>
       ```
+   + [CustomStage](https://github.com/Oshan96/CustomStage)
+     - A JavaFX undecorated stage which can fully be customized
+     - ```
+        <dependency>
+         <groupId>lk.vivoxalabs.customstage</groupId>
+         <artifactId>CustomStage</artifactId>
+         <version>1.3.2</version>
+        </dependency>
+
+        ```
+    + [DesktopPaneFX](https://github.com/kordamp/desktoppanefx)
+      - DesktopPaneFX is a JavaFX version of Swing’s JDesktopPane which can be used as a container for individual "child" similar to JInternalFrames.
+      - ```
+         <dependencies>
+          <dependency>
+           <groupId>org.kordamp.desktoppanefx</groupId>
+           <artifactId>desktoppanefx-core</artifactId>
+           <version>0.15.0</version>
+          </dependency>
+         </dependencies>
+    
+        ```
+    + [ResponsiveFx](https://github.com/canoo/ResponsiveFX)
+      - ```
+         <groupId>com.guigarage</groupId>
+          <artifactId>responsivefx</artifactId>
+         <version>0.8</version>
+        ``` 
+
 
 ## Troubleshoting
 
