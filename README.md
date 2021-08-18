@@ -67,9 +67,8 @@
          <artifactId>CustomStage</artifactId>
          <version>1.3.2</version>
         </dependency>
-
         ```
-    + [DesktopPaneFX](https://github.com/kordamp/desktoppanefx)
+   + [DesktopPaneFX](https://github.com/kordamp/desktoppanefx)
       - DesktopPaneFX is a JavaFX version of Swing’s JDesktopPane which can be used as a container for individual "child" similar to JInternalFrames.
       - ```
          <dependencies>
@@ -81,7 +80,7 @@
          </dependencies>
     
         ```
-    + [ResponsiveFx](https://github.com/canoo/ResponsiveFX)
+   + [ResponsiveFx](https://github.com/canoo/ResponsiveFX)
       - ```
          <groupId>com.guigarage</groupId>
           <artifactId>responsivefx</artifactId>
