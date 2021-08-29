@@ -14,7 +14,11 @@
  + BorderPane
  + SplitPane
  + HBox, VBox, and ButtonBar
-
+ 
+## UI components
+ + ScrollPane
+   - Use fitToHeight and fitToWidth property to fit the components inside ScrollPane to the varying size of ScrollPane panel
+ 
 ## Tools
  - Scene builder
  - Intellij Idea IDE with JavaFx activated
