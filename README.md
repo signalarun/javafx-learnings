@@ -90,7 +90,13 @@
           <artifactId>responsivefx</artifactId>
          <version>0.8</version>
         ``` 
-
+   + [Tilesfx](https://github.com/HanSolo/tilesfx)     
+      - A JavaFX library containing tiles for Dashboards.
+   + [JSilhouette](https://kordamp.org/jsilhouette/)
+      - JSilhouette provides additional shapes for Java applications. Currently JavaFX is supported.
+   + [Medusa](https://github.com/HanSolo/Medusa)
+      - A JavaFX library for Gauges. The main focus of this project is to provide Gauges that can be configured in multiple ways.
+   + [MigLayout - Java Layout Manager](https://miglayout.com/)
 
 ## Troubleshoting
 
