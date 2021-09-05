@@ -97,6 +97,7 @@
    + [Medusa](https://github.com/HanSolo/Medusa)
       - A JavaFX library for Gauges. The main focus of this project is to provide Gauges that can be configured in multiple ways.
    + [MigLayout - Java Layout Manager](https://miglayout.com/)
+   + [Charts](https://github.com/HanSolo/charts)
 
 ## Troubleshoting
 
