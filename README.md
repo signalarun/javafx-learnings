@@ -168,6 +168,8 @@
                     </compilerArgs>
 
 ```
+## Sample Projects
+ + [NotesFX](https://github.com/emlautarom1/NotesFX)
 
 ## Tutorials
  + https://riptutorial.com/javafx/example/28033/creating-custom-dialog 
