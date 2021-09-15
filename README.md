@@ -62,9 +62,10 @@
          <artifactId>bootstrapfx-core</artifactId>
          <version>0.4.0</version>
         </dependency>
-      ```
+       ```
    + [Jbootx](https://github.com/dicolar/jbootx)
-     - a javafx theme of bootstrap   
+     - a javafx theme of bootstrap
+     
    + [CustomStage](https://github.com/Oshan96/CustomStage)
      - A JavaFX undecorated stage which can fully be customized
      - ```
