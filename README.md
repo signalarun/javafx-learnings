@@ -177,3 +177,4 @@
  + https://riptutorial.com/javafx/example/28033/creating-custom-dialog 
  + https://www.oracle.com/webfolder/technetwork/tutorials/obe/java/BinaryWebSocket/binaryWebSocket.html
  + https://www.swtestacademy.com/database-operations-javafx/
+ + https://edencoding.com/connect-javafx-with-sqlite/
