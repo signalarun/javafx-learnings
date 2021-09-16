@@ -105,7 +105,7 @@
 
 ## Troubleshoting
 
- - Compiler arguments with maven
+ + Compiler arguments with maven
  ```
  
                     <arg>--add-exports</arg>
@@ -168,6 +168,8 @@
                     </compilerArgs>
 
 ```
+ + Sqlite
+   - https://stackoverflow.com/questions/2228462/are-there-any-good-cachedrowset-implementations-other-than-the-proprietary-sun-o 
 ## Sample Projects
  + [NotesFX](https://github.com/emlautarom1/NotesFX)
 
