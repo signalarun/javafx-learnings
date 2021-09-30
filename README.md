@@ -182,3 +182,4 @@
  + https://www.oracle.com/webfolder/technetwork/tutorials/obe/java/BinaryWebSocket/binaryWebSocket.html
  + https://www.swtestacademy.com/database-operations-javafx/
  + https://edencoding.com/connect-javafx-with-sqlite/
+ + [How to Design a Vertical Side Menu With Tabs - JavaFX IntelUI Inspiration](https://www.youtube.com/watch?app=desktop&v=ZVtys3GgkMo)
