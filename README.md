@@ -176,6 +176,7 @@
    - https://stackoverflow.com/questions/2228462/are-there-any-good-cachedrowset-implementations-other-than-the-proprietary-sun-o 
 ## Sample Projects
  + [NotesFX](https://github.com/emlautarom1/NotesFX)
+ + [Javafx samples](https://easyknowledge24.blogspot.com/p/javafx.html)
 
 ## Tutorials
  + https://riptutorial.com/javafx/example/28033/creating-custom-dialog 
