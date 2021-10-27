@@ -185,3 +185,4 @@
  + https://edencoding.com/connect-javafx-with-sqlite/
  + [How to Design a Vertical Side Menu With Tabs - JavaFX IntelUI Inspiration](https://www.youtube.com/watch?app=desktop&v=ZVtys3GgkMo)
  + [Load Data on TableView from MySQL Database](https://www.codegrepper.com/code-examples/java/Load+Data+on+TableView+from+MySQL+Database)
+ + [Java connection pooling](https://www.baeldung.com/java-connection-pooling)
