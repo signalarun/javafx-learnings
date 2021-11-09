@@ -173,7 +173,11 @@
 
 ```
  + Sqlite
-   - https://stackoverflow.com/questions/2228462/are-there-any-good-cachedrowset-implementations-other-than-the-proprietary-sun-o 
+   - https://stackoverflow.com/questions/2228462/are-there-any-good-cachedrowset-implementations-other-than-the-proprietary-sun-o
+ + Select from alternative Java versions
+   ``` 
+     sudo update-alternatives --config java   
+   ```
 ## Sample Projects
  + [NotesFX](https://github.com/emlautarom1/NotesFX)
  + [Javafx samples](https://easyknowledge24.blogspot.com/p/javafx.html)
@@ -186,3 +190,6 @@
  + [How to Design a Vertical Side Menu With Tabs - JavaFX IntelUI Inspiration](https://www.youtube.com/watch?app=desktop&v=ZVtys3GgkMo)
  + [Load Data on TableView from MySQL Database](https://www.codegrepper.com/code-examples/java/Load+Data+on+TableView+from+MySQL+Database)
  + [Java connection pooling](https://www.baeldung.com/java-connection-pooling)
+
+### Setting up environment
+ + [Install java in debian 9](https://linuxize.com/post/install-java-on-debian-9/)
