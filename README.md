@@ -178,6 +178,11 @@
    ``` 
      sudo update-alternatives --config java   
    ```
+ + Installing a Debian package
+   ```
+   sudo dpkg -i /absolute/path/to/deb/file
+   sudo apt-get install -f
+   ``` 
 ## Sample Projects
  + [NotesFX](https://github.com/emlautarom1/NotesFX)
  + [Javafx samples](https://easyknowledge24.blogspot.com/p/javafx.html)
