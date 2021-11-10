@@ -171,9 +171,16 @@
 
                     </compilerArgs>
 
-```
+```  
+
  + Sqlite
    - https://stackoverflow.com/questions/2228462/are-there-any-good-cachedrowset-implementations-other-than-the-proprietary-sun-o
+
+ + RxTxLibrary
+   - If using this library for serial communication ensure the following
+     * rxtxSerial.dll or rxtxSerial.so is in <JAVA_HOME>\jre\bin
+     * rxtxParallel.dll or rxtxParallel.so is in <JAVA_HOME>\jre\bin
+
 
 ## Sample Projects
  + [NotesFX](https://github.com/emlautarom1/NotesFX)
