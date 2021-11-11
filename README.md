@@ -143,5 +143,9 @@
    sudo dpkg -i /absolute/path/to/deb/file
    sudo apt-get install -f
    ``` 
+ + GUI version of alternatives
+   ```
+   sudo apt-get install galternatives
+   ```
  + [Download bellsoft-jdk13-linux-arm32-vfp-hflt.deb](https://download.bell-sw.com/java/13/bellsoft-jdk13-linux-arm32-vfp-hflt.deb)
  + [Download embedded JDK or JRE here](https://bell-sw.com/pages/downloads-embedded/?version=java-13&os=Linux-Ubuntu-Debian&bitness=32-bit&architecture=ARM&package=jre)
