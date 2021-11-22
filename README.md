@@ -152,7 +152,7 @@
 
 ### Installing RxTx in boards
 
- + http://rxtx.qbang.org/wiki/index.php/Installation_on_Linux
+ + [Installation methods](http://rxtx.qbang.org/wiki/index.php/Installation_on_Linux)
  + If Debian 
    - ``` sudo apt-get install librxtx-java ```
    - If librxtxSerial.so is not found by Java application then
