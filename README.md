@@ -150,7 +150,7 @@
  + [Download bellsoft-jdk13-linux-arm32-vfp-hflt.deb](https://download.bell-sw.com/java/13/bellsoft-jdk13-linux-arm32-vfp-hflt.deb)
  + [Download embedded JDK or JRE here](https://bell-sw.com/pages/downloads-embedded/?version=java-13&os=Linux-Ubuntu-Debian&bitness=32-bit&architecture=ARM&package=jre)
 
-### Configuring RxTx in boards
+### Installing RxTx in boards
 
  + http://rxtx.qbang.org/wiki/index.php/Installation_on_Linux
  + If Debian 
