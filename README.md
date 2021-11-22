@@ -121,6 +121,7 @@
 ## Sample Projects
  + [NotesFX](https://github.com/emlautarom1/NotesFX)
  + [Javafx samples](https://easyknowledge24.blogspot.com/p/javafx.html)
+ + [FXTutorials](https://github.com/AlmasB/FXTutorials)
 
 ## Tutorials
  + https://riptutorial.com/javafx/example/28033/creating-custom-dialog 
