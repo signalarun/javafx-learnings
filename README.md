@@ -139,6 +139,10 @@
    ``` 
      sudo update-alternatives --config java   
    ```
+ + GUI version of alternatives
+   ```
+   sudo apt-get install galternatives
+   ```  
  + Installing a Debian package
    -
    ```
@@ -150,10 +154,7 @@
    - ``` dpkg --print-foreign-architecture ```
    - ``` dpkg -I package-name.deb ```
    - ``` dpkg --add-architecture arm ``` // used if arm package installation fails in an arm board
- + GUI version of alternatives
-   ```
-   sudo apt-get install galternatives
-   ```
+
  + [Download bellsoft-jdk13-linux-arm32-vfp-hflt.deb](https://download.bell-sw.com/java/13/bellsoft-jdk13-linux-arm32-vfp-hflt.deb)
  + [Download embedded JDK or JRE here](https://bell-sw.com/pages/downloads-embedded/?version=java-13&os=Linux-Ubuntu-Debian&bitness=32-bit&architecture=ARM&package=jre)
 
