@@ -140,10 +140,16 @@
      sudo update-alternatives --config java   
    ```
  + Installing a Debian package
+   -
    ```
    sudo dpkg -i /absolute/path/to/deb/file
    sudo apt-get install -f
    ``` 
+ + Debian package info
+   - ``` dpkg --print-architecture ```
+   - ``` dpkg --print-foreign-architecture ```
+   - ``` dpkg -I package-name.deb ```
+   - ``` dpkg --add-architecture arm ``` // used if arm package installation fails in an arm board
  + GUI version of alternatives
    ```
    sudo apt-get install galternatives
